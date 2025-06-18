@@ -1,11 +1,6 @@
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
-sklearn.cluster
-sklearn.metrics
-sklearn.preprocessing
-sklearn.decomposition
-matplotlib.pyplot
+sklearn
 seaborn
-sklearn.impute
