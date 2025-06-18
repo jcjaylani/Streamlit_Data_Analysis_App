@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib.pyplot
+numpy
+sklearn.cluster
+sklearn.metrics
+sklearn.preprocessing
+sklearn.decomposition
+matplotlib.pyplot
+io, json
+seaborn
+sklearn.impute
