@@ -1,3 +1,4 @@
+
 # Streamlit Data Analysis App
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Community-brightgreen.svg)](https://streamlit.io)
@@ -81,7 +82,7 @@ The demo animates clustering with varying k values.<br>
 <br>
 <b>Outlier Detection Demo</b><br>
 Red points are flagged as outliers as the Z-threshold varies dynamically.<br>
-
+![Outlier Detection Demo](streamlit_demo_outliers.gif)
 ## 🤝 Contributions
 <br>
 <b>Contributions are welcome!</b><br>
