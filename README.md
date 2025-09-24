@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app.py<br>
 5. **Open your browser at http://localhost:8501**
 
-## Features
+## 🎨 Features
 
 - Data Profiling – Automated summary statistics and EDA
 
@@ -71,7 +71,7 @@ streamlit run app.py<br>
 
 - AI Review – Integrate AI-generated feedback on data and results
 
-## Screenshots & Demo
+## 📸 Screenshots & Demo
 
 Here’s a preview of the app in action: <br>
 <br>
@@ -81,7 +81,7 @@ The demo animates clustering with varying k values.<br>
 <b>Outlier Detection Demo</b><br>
 Red points are flagged as outliers as the Z-threshold varies dynamically.<br>
 
-## Contributions
+## 🤝 Contributions
 <br>
 <b>Contributions are welcome!</b><br>
 If you’d like to add new analysis modules, improve UI, or enhance documentation:<br>
@@ -97,13 +97,13 @@ If you’d like to add new analysis modules, improve UI, or enhance documentatio
 
 - Open a Pull Request<br>
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License
 .
 You are free to use, modify, and distribute this project with attribution.
 
-## Acknowledgments
+## 🙌 Acknowledgments
 
 Streamlit
  for the  app framework
