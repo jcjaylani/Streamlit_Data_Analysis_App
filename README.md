@@ -17,6 +17,7 @@ It can serve as:
 - A reusable framework for analytics projects  
 - A demo environment for experimenting with Streamlit apps  
 
+#### To launch app, click https://data-analysis-app-example.streamlit.app/
 ---
 
 ## 📂 Repository Structure
