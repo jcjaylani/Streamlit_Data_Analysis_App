@@ -77,6 +77,7 @@ Here’s a preview of the app in action: <br>
 <br>
 <b>Clustering Demo</b><br> 
 The demo animates clustering with varying k values.<br>
+![Clustering Demo](streamlit_demo_clustering.gif)
 <br>
 <b>Outlier Detection Demo</b><br>
 Red points are flagged as outliers as the Z-threshold varies dynamically.<br>
