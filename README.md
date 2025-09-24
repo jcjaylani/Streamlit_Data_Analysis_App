@@ -2,12 +2,6 @@
 
 # Streamlit Data Analysis App
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-Community-brightgreen.svg)](https://streamlit.io)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/jcjaylani/Streamlit_Data_Analysis_App)
-![GitHub repo size](https://img.shields.io/github/repo-size/jcjaylani/Streamlit_Data_Analysis_App)
-
 ## 📖 Overview
 **Streamlit Data Analysis App** is a modular, interactive platform for exploring data, running machine learning pipelines, and visualizing insights — all through a simple Streamlit interface.  
 
