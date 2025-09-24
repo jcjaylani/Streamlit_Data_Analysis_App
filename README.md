@@ -1,3 +1,4 @@
+![Streamlit Data Analysis App](assets/Data_Image_1.png)
 
 # Streamlit Data Analysis App
 
@@ -78,11 +79,12 @@ Here’s a preview of the app in action: <br>
 <br>
 <b>Clustering Demo</b><br> 
 The demo animates clustering with varying k values.<br>
-![Clustering Demo](streamlit_demo_clustering.gif)
+![Clustering Demo](assets/streamlit_demo_clustering.gif)
 <br>
 <b>Outlier Detection Demo</b><br>
 Red points are flagged as outliers as the Z-threshold varies dynamically.<br>
-![Outlier Detection Demo](streamlit_demo_outliers.gif)
+![Outlier Detection Demo](assets/streamlit_demo_outliers.gif)
+
 ## 🤝 Contributions
 <br>
 <b>Contributions are welcome!</b><br>
