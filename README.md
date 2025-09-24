@@ -1,4 +1,4 @@
-![Streamlit Data Analysis App](assets/Data_Image_1.png)
+![Streamlit Data Analysis App](Data_Image_1.png)
 
 # Streamlit Data Analysis App
 
