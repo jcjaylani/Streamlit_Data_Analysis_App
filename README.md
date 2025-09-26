@@ -3,7 +3,9 @@
 # Streamlit Data Analysis App
 
 ## 📖 Overview
-**Streamlit Data Analysis App** is a modular, interactive platform for exploring data, running machine learning pipelines, and visualizing insights — all through a simple Streamlit interface.  **A PowerPoint presentation** is included to give a brief overview of the Streamlit application, its purpose, and application for data science projects.
+**Streamlit Data Analysis App** is a modular, interactive platform for exploring data, running machine learning pipelines, and visualizing insights — all through a simple Streamlit interface.
+
+**A PowerPoint presentation** is included to give a brief overview of the Streamlit application, its purpose, and its application for data science projects.
 
 This project demonstrates how to integrate:
 - **Exploratory Data Analysis (EDA)**
