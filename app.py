@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import openai
 
 # Set page configuration for the Streamlit app
 st.set_page_config(page_title="Modular Data Explorer", layout="wide")
@@ -123,3 +124,4 @@ with tabs[6]:
         st.info("Please upload a dataset to generate AI insights.")
     else:
         ai_review.show_ai_review(st.session_state['df'], st.session_state.get('ml_results'))
+
