@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+pip install openai==0.28
 
 # Note: The openai package is required for this module
 try:
@@ -95,3 +96,4 @@ def show_ai_review(df, ml_results=None):
             st.download_button("Download Summary (.pdf)", data=pdf_bytes, file_name="AI_Summary.pdf", mime="application/pdf")
         except Exception as e:
             st.warning(f"PDF generation failed: {e}. But you can download the text file above.")
+
