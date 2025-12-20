@@ -6,6 +6,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
+from pyclustertend import hopkins
 
 # Attempt to import Hopkins statistic function
 try:
@@ -149,3 +150,4 @@ def show_imputation_comparison(df, df_cluster_imputed=None):
             with cols[2]:
                 st.caption("Cluster Imputed (first 5 rows)")
                 st.dataframe(df_cluster_imputed[[col]].head())
+
